@@ -1,5 +1,7 @@
 ### Hi there 👋
-## 🔭 I’m currently working on C language...
+## 🔭 I’m currently inclined towards web development...
+## 🤔 Learning ReactJS
+## Looking forward to build some JavaScript projects
 
 ![Cool Dude's GitHub stats](https://github-readme-stats.vercel.app/api?username=linuxdecoded&theme=github_dark&show_icons=true)
 
