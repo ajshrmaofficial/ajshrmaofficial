@@ -4,6 +4,7 @@
 ## Looking forward to build some JavaScript projects
 
 ![Cool Dude's GitHub stats](https://github-readme-stats.vercel.app/api?username=linuxdecoded&theme=github_dark&show_icons=true)
+![](https://raw.githubusercontent.com/linuxdecoded/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--
 **LinuxDecoded/LinuxDecoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
