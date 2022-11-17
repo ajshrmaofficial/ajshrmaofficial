@@ -1,7 +1,7 @@
 ## Hi, I'm Ajay Sharma
-### 🔭 I’m currently inclined towards web development...
-### 🤔 Learning ReactJS
-### Looking forward to build some JavaScript projects
+### 🔭 I’m currently inclined towards web development (Don't know WHY)...
+### 🤔 Learning React Native
+### Looking forward to start open source contributions
 
 ![](https://raw.githubusercontent.com/linuxdecoded/GitHub-Statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/linuxdecoded/GitHub-Statistics/master/generated/languages.svg#gh-dark-mode-only)
