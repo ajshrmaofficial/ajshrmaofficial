@@ -3,7 +3,7 @@
 ### 🤔 Exploring React Native
 ### Looking forward for open source contributions
 
-![](https://raw.githubusercontent.com/linuxdecoded/GitHub-Statistics/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ajshrmaofficial/GitHub-Statistics/master/generated/overview.svg#gh-dark-mode-only)
 <!--![](https://raw.githubusercontent.com/linuxdecoded/GitHub-Statistics/master/generated/languages.svg#gh-dark-mode-only)-->
 <!--
 **LinuxDecoded/LinuxDecoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
