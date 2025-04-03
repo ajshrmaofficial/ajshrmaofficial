@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://portfolio-ajayshrma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ajayshrma.vercel.app-blue?style=flat-square&logo=vercel"></a>
+  <a href="ajaysharma.xyz"><img src="https://img.shields.io/badge/Portfolio-ajaysharma.xyz-blue?style=flat-square&logo=vercel"></a>
   <a href="https://linkedin.com/in/ajshrma"><img src="https://img.shields.io/badge/LinkedIn-ajshrma-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:ajshrmaofficial@gmail.com"><img src="https://img.shields.io/badge/Email-ajshrmaofficial%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
